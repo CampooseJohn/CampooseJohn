@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CampooseJohn
-- 👀 I’m interested in Security
+- 👀 I’m interested in Security and pri
 - 🌱 I’m currently learning about security
 - 💞️ I’m looking to collaborate on proposal
 - 📫 How to reach me mail

@@ -2,7 +2,7 @@
 - 👀 I’m interested in Security and pri
 - 🌱 I’m currently learning about security
 - 💞️ I’m looking to collaborate on proposal
-- 📫 How to reach me mail
+- 📫 How to reach me by mail
 
 <!---
 CampooseJohn/CampooseJohn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

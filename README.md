@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CampooseJohn
 - 👀 I’m interested in Security and privacy
 - 🌱 I’m currently learning about security
-- 💞️ I’m looking to collaborate on proposals      
+- 💞️ I’m looking to collaborate on proposals       
 - 📫 How to reach me by mailing me                                                                                                                                                                            
  
 <!---
